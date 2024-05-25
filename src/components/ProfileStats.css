@@ -1,0 +1,34 @@
+.profile-stats {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  background-color: #f8f8f8;
+  border-top: 1px solid #e0e0e0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.stat-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.stat-icon {
+  font-size: 24px;
+  color: #ff487f;
+}
+
+.stat-item span {
+  display: block;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.stat-item span {
+  color: #ff487f;
+}
+
+.stat-item p {
+  margin: 0;
+  color: #777;
+}

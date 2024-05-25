@@ -1,0 +1,12 @@
+.profile-container {
+  width: 450px;
+  margin: 0 auto;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  overflow: hidden;
+  font-family: "Domaine Display, Sharp Grotesk";
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

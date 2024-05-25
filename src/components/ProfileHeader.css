@@ -1,0 +1,50 @@
+.profile-header {
+  position: relative;
+}
+
+.cover-image {
+  width: 100%;
+  height: auto;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.profile-image {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  border: 3px solid #fff;
+  margin-right: 10px;
+  margin-top: -50px;
+}
+
+.profile-stats {
+  display: flex;
+  justify-content: space-around;
+  flex: 1;
+}
+
+.stat-item {
+  text-align: center;
+}
+
+.stat-icon {
+  font-size: 24px;
+  color: #ff487f;
+}
+
+.stat-item span {
+  display: block;
+  font-size: 18px;
+  font-weight: bold;
+  color: #ff487f;
+}
+
+.stat-item p {
+  margin: 0;
+  color: #777;
+}

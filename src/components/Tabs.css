@@ -1,0 +1,29 @@
+.tabs {
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.tab-item {
+  padding: 10px;
+  flex: 1;
+  text-align: center;
+  cursor: pointer;
+}
+
+.tab-icon {
+  /* font-size: 24px; */
+  /* display: flex; */
+  width: 24px;
+  height: 24px;
+  padding: 2px 2px 2.643px 2px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  /* box-shadow: 0px 0px 16px 0px rgba(255, 255, 255, 0.35); */
+}
+
+.active {
+  border-bottom: 2px solid #6200ea;
+  color: #6200ea;
+}
