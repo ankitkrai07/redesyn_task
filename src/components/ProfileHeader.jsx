@@ -1,4 +1,3 @@
-// src/components/ProfileHeader.js
 import React from "react";
 import { FaInstagram, FaYoutube } from "react-icons/fa";
 import "./ProfileHeader.css";

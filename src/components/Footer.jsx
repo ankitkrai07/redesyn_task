@@ -1,4 +1,3 @@
-// src/components/Footer.js
 import React from "react";
 import { FaHome, FaStore, FaBookmark, FaUser } from "react-icons/fa";
 import "./Footer.css";
